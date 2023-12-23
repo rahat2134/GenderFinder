@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#Box{
+    padding: 300px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-image: url(https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&w=800);
+}
+#name{
+    border-radius: 25px;
+    font-size: 25px;
+    
+}
+#btn{
+    border-radius: 25px;
+}
+#result{
+    margin:15px;
+}
